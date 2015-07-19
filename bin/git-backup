@@ -6,7 +6,7 @@ cat << EOF
 Perform remote backup of the current git workspace. If there are any untracked
 file, it will be asked which ones the user wish to backup.
 
-Usage: git backup [remote | --help]
+Usage: git-backup [remote | --help]
 EOF
 }
 
